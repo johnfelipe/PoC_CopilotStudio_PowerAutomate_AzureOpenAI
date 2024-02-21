@@ -56,7 +56,7 @@ While this repository focuses on singular table interactions and is optimal for 
 
 This step will import the required components into your environment. Make sure you are connected to your Non-PROD environment.
 
-- Download the solution as zip file: [Download the Solution](https://github.com/mimergel/SAP_Table_Copilot/raw/main/solution/SAPTableCopilot_1_0_0_3.zip).
+- Download the solution as zip file:
 
 - Login to https://make.powerapps.com/ 
 - Go to Solutions.
